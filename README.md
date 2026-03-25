@@ -1,12 +1,12 @@
-# 💱 Macro FX Dashboard  
+# Macro FX Dashboard  
 
 A retail-focused **Macroeconomic FX Dashboard** that translates global FX drivers into simple, actionable insights.  
 Built with **Python + Streamlit**.  
 
 ---
 
-## 🚀 Live Demo  
-👉 [Click here to view the dashboard](https://your-app-name.streamlit.app)  
+##  Live Demo  
+ [Click here to view the dashboard](https://your-app-name.streamlit.app)  
 *(Replace with your actual Streamlit Cloud link once deployed)*  
 
 ---
@@ -17,10 +17,10 @@ Built with **Python + Streamlit**.
 
 ---
 
-## ✨ Features  
-- 📊 **Currency Strength Heatmap** – see strongest/weakest currencies at a glance  
-- 📌 **Pair Bias Board** – Bullish/Bearish/Neutral signals for major pairs  
-- 🔮 **Expandable Modules** (planned):  
+##   Features  
+-   **Currency Strength Heatmap** – see strongest/weakest currencies at a glance  
+-   **Pair Bias Board** – Bullish/Bearish/Neutral signals for major pairs  
+-   **Expandable Modules** (planned):  
   - Risk Sentiment Board (VIX, SP500, Gold, Oil)  
   - Event Risk Radar (economic calendar integration)  
   - Yield Differential Tracker (2y/10y spreads via FRED API)  
@@ -28,7 +28,7 @@ Built with **Python + Streamlit**.
 
 ---
 
-## 🧭 Vision  
+##  Vision  
 Retail traders don’t need *more* data – they need **clarity and context**.  
 This dashboard acts as a **Macro GPS** for traders by:  
 - Simplifying global macro drivers into easy-to-use visuals  
@@ -37,8 +37,8 @@ This dashboard acts as a **Macro GPS** for traders by:
 
 ---
 
-## 🔮 Roadmap  
-- ✅ MVP: Currency Strength + Pair Bias Board  
+##  Roadmap  
+-   MVP: Currency Strength + Pair Bias Board  
 - ⏳ Next: Risk Sentiment Board (VIX, Gold, SP500)  
 - ⏳ Add: Economic Calendar (macro event integration)  
 - ⏳ Add: Yield Differential Tracker (via FRED API)  
@@ -46,7 +46,7 @@ This dashboard acts as a **Macro GPS** for traders by:
 
 ---
 
-## ⚡ Quick Start  
+##  Quick Start  
 
 ### 1. Clone the repo  
 ```bash
