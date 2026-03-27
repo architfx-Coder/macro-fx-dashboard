@@ -10,11 +10,11 @@
 
 🔗 **[Live Demo →](https://your-streamlit-app.streamlit.app)** | 📄 **[Sample Report (PDF)](#)**
 
-> ⚡ *This project is the strongest differentiator in this portfolio for roles in fintech, FX desks, and AI-analytics teams.*
+>  *This project is the strongest differentiator in this portfolio for roles in fintech, FX desks, and AI-analytics teams.*
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 FX and macro analysis is traditionally slow, expensive, and fragmented. Traders and analysts spend hours cross-referencing Bloomberg terminals, news sources, and economic calendars before forming a view on a currency pair.
 
@@ -22,7 +22,7 @@ FX and macro analysis is traditionally slow, expensive, and fragmented. Traders 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 1. Build a **live FX monitoring layer** with real-time rate feeds and technical signals
 2. Overlay **macro intelligence** (interest rates, inflation, CPI, GDP) from public data sources
@@ -32,7 +32,7 @@ FX and macro analysis is traditionally slow, expensive, and fragmented. Traders 
 
 ---
 
-## 🧠 What Makes This "AI-Powered"
+##  What Makes This "AI-Powered"
 
 Most dashboards just display data. This one **reasons about it.**
 
@@ -49,7 +49,7 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 
 ---
 
-## 🖥️ Dashboard Panels
+##  Dashboard Panels
 
 ### Panel 1 — FX Rate Monitor
 - Live mid-market rates for 20+ major and cross pairs
@@ -77,7 +77,7 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### Step 1 — FX Data Pipeline
 - Alpha Vantage / Open Exchange Rates API for live rates
@@ -109,7 +109,7 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
@@ -126,7 +126,7 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 1. **AI commentary is most valuable when data-grounded.** Generic GPT-4 prompts produce generic output. Feeding structured live data as context produces commentary indistinguishable from a junior sell-side analyst's morning note.
 
@@ -138,7 +138,7 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 
 ---
 
-## 📊 Visualisations Included
+##  Visualisations Included
 
 - 🕯️ **Candlestick Chart** — With MA20/MA50 overlay and volume
 - 🟥🟩 **Currency Strength Heatmap** — All major pairs, colour-coded
@@ -149,7 +149,7 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 | Use Case | Value |
 |----------|-------|
@@ -158,11 +158,11 @@ When you select a currency pair (e.g., EUR/USD), the dashboard:
 | **Fintech Product Teams** | Foundation for a commercial FX intelligence product |
 | **Finance Educators** | Live, contextualised teaching tool for macro-FX relationships |
 
-> 🏦 Comparable commercial tools: Bloomberg FX Analysis ($20k+/year), Refinitiv Eikon. This replicates ~40% of core functionality using free/low-cost APIs and GPT-4.
+>  Comparable commercial tools: Bloomberg FX Analysis ($20k+/year), Refinitiv Eikon. This replicates ~40% of core functionality using free/low-cost APIs and GPT-4.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ai-fx-macro-dashboard/
@@ -194,7 +194,7 @@ ai-fx-macro-dashboard/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/yourusername/ai-fx-macro-dashboard.git
@@ -217,7 +217,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] **Options Positioning Data** — Add CFTC COT report integration (speculative positioning)
 - [ ] **Backtesting Engine** — Test AI-generated signals against historical data
