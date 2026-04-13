@@ -1,4 +1,4 @@
-# 📈 AI FX / Macro Intelligence Dashboard
+#  AI FX / Macro Intelligence Dashboard
 
 > **Combining live FX data, macro indicators, and GPT-4-powered commentary into one institutional-grade intelligence tool.**
 
@@ -8,7 +8,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
-🔗 **[Live Demo →](https://your-streamlit-app.streamlit.app)** | 📄 **[Sample Report (PDF)](#)**
+🔗 **[Live Demo →](https://your-streamlit-app.streamlit.app)** |  **[Sample Report (PDF)](#)**
 
 >  *This project is the strongest differentiator in this portfolio for roles in fintech, FX desks, and AI-analytics teams.*
 
@@ -211,7 +211,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 > This dashboard is built for educational and portfolio purposes only. All AI-generated commentary is clearly labelled and **does not constitute financial advice**. Always consult a qualified financial professional before making investment decisions.
 
